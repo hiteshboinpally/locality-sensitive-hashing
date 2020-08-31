@@ -28,9 +28,9 @@ and the Jaccard Index as the y-axis.
 
 ## Authors
 
+* **Hitesh B**
 * **Gaurav G**
 * **Aditya B**
-* **Hitesh B**
 
 
 
